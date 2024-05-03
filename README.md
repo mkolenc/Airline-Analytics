@@ -38,17 +38,17 @@ The Route Manager is a Python program designed to handle airline routes data and
 ## Output
 - Example bar graph for Question 1:
 
-    <img src="Images/q1_bar.png" alt="Example Bar Graph" width="30%" height="auto"/>
+    <img src="Images/q1_bar.png" alt="Example Bar Graph" width="50%" height="auto"/>
     <br></br>
 
 - Example pie graph for Question 1:
 
-    <img src="Images/q1_pie.png" alt="Example Pie Graph" width="30%" height="auto"/>
+    <img src="Images/q1_pie.png" alt="Example Pie Graph" width="50%" height="auto"/>
      <br></br>
 
 - Example CSV file for Question 1:
 
-    <img src="Images/q1_csv.png" alt="Example CSV file" width="50%" height="auto"/>
+    <img src="Images/q1_csv.png" alt="Example CSV file" width="70%" height="auto"/>
      <br></br>
 
 ## Data Source

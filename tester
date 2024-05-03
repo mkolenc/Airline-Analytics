@@ -1,0 +1,8 @@
+#!/bin/bash
+chmod u+x validator
+if (($# < 1))
+then
+    python3 validator
+else
+    python3 validator "$1"
+fi
